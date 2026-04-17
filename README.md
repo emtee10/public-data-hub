@@ -8,7 +8,22 @@ This repository hosts externally sourced datasets used for dashboarding and anal
 - Provide stable data sources for Power BI dashboards
 
 ## Setup
-Install dependencies: `pip install -r requirements.txt`
+
+### Option 1 - Dev Container
+
+Open the repository in GitHub Codespaces or in VS Code using "Reopen in Container".
+
+Dependencies will be installed automatically as part of the container setup.
+
+### Option 2 - Local Setup
+
+Create a virtual environment and install dependencies:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate   # or .venv\Scripts\activate on Windows
+pip install -r requirements.txt
+```
 
 ## Structure
 
