@@ -29,6 +29,7 @@ COLUMN_MAP = {
     "public_health_unit": "public_health_unit",
     "outcome": "outcome",
     "surveillance_period": "surveillance_period",
+    "respiratory_season": "surveillance_period",
     "surveillance_week": "surveillance_week",
     "start_of_time_period": "start_of_time_period",
     "end_of_time_period": "end_of_time_period",
