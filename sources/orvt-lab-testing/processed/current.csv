@@ -1,120 +1,390 @@
 public_health_unit,virus,surveillance_period,surveillance_week,start_of_time_period,end_of_time_period,positive_tests,total_tests
+Algoma Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,79
+Algoma Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,13,79
+Algoma Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,79
+Algoma Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,0,97
+Algoma Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,97
+Algoma Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,1,79
+Algoma Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,88
+Algoma Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,2,107
+Algoma Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,79
+Chatham-Kent Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,7
+Chatham-Kent Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,4,7
+Chatham-Kent Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,7
+Chatham-Kent Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,3,24
+Chatham-Kent Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,24
+Chatham-Kent Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,7
+Chatham-Kent Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,24
+Chatham-Kent Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,0,24
+Chatham-Kent Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,6
+City of Hamilton Public Health Services,Adenovirus,2026-27,44,2026-11-01,2026-11-07,1,504
+City of Hamilton Public Health Services,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,44,505
+City of Hamilton Public Health Services,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,3,503
+City of Hamilton Public Health Services,Influenza A,2026-27,44,2026-11-01,2026-11-07,17,536
+City of Hamilton Public Health Services,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,536
+City of Hamilton Public Health Services,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,8,505
+City of Hamilton Public Health Services,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,2,536
+City of Hamilton Public Health Services,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,7,542
+City of Hamilton Public Health Services,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,2,500
+Durham Region Health Department,Adenovirus,2026-27,44,2026-11-01,2026-11-07,2,74
+Durham Region Health Department,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,15,79
+Durham Region Health Department,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,80
+Durham Region Health Department,Influenza A,2026-27,44,2026-11-01,2026-11-07,34,330
+Durham Region Health Department,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,330
+Durham Region Health Department,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,5,78
+Durham Region Health Department,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,1,329
+Durham Region Health Department,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,5,328
+Durham Region Health Department,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,77
+Eastern Ontario Health Unit,Adenovirus,2026-27,44,2026-11-01,2026-11-07,4,29
+Eastern Ontario Health Unit,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,10,29
+Eastern Ontario Health Unit,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,29
+Eastern Ontario Health Unit,Influenza A,2026-27,44,2026-11-01,2026-11-07,13,212
+Eastern Ontario Health Unit,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,211
+Eastern Ontario Health Unit,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,29
+Eastern Ontario Health Unit,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,211
+Eastern Ontario Health Unit,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,7,212
+Eastern Ontario Health Unit,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,29
+Grand Erie Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,2,173
+Grand Erie Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,20,173
+Grand Erie Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,1,72
+Grand Erie Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,5,184
+Grand Erie Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,184
+Grand Erie Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,1,173
+Grand Erie Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,184
+Grand Erie Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,4,183
+Grand Erie Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,1,68
+Grey Bruce Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,8
+Grey Bruce Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,2,8
+Grey Bruce Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,8
+Grey Bruce Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,4,84
+Grey Bruce Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,84
+Grey Bruce Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,8
+Grey Bruce Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,1,84
+Grey Bruce Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,1,84
+Grey Bruce Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,3
+Halton Region Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,4,128
+Halton Region Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,21,131
+Halton Region Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,128
+Halton Region Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,38,264
+Halton Region Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,261
+Halton Region Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,128
+Halton Region Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,2,261
+Halton Region Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,5,261
+Halton Region Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,3,127
+Huron Perth Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,1,3
+Huron Perth Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,0,3
+Huron Perth Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,3
+Huron Perth Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,4,46
+Huron Perth Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,46
+Huron Perth Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,3
+Huron Perth Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,45
+Huron Perth Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,0,46
+Huron Perth Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,1
+Lakelands Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,1,17
+Lakelands Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,41,322
+Lakelands Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,1,322
+Lakelands Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,20,394
+Lakelands Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,394
+Lakelands Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,322
+Lakelands Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,395
+Lakelands Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,18,394
+Lakelands Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,321
+Lambton Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,8
+Lambton Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,0,8
+Lambton Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,8
+Lambton Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,1,25
+Lambton Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,25
+Lambton Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,8
+Lambton Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,25
+Lambton Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,0,25
+Lambton Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,5
+Middlesex-London Health Unit,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,53
+Middlesex-London Health Unit,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,3,53
+Middlesex-London Health Unit,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,53
+Middlesex-London Health Unit,Influenza A,2026-27,44,2026-11-01,2026-11-07,11,245
+Middlesex-London Health Unit,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,244
+Middlesex-London Health Unit,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,2,53
+Middlesex-London Health Unit,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,1,244
+Middlesex-London Health Unit,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,5,251
+Middlesex-London Health Unit,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,10
+Niagara Region Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,1,345
+Niagara Region Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,33,345
+Niagara Region Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,2,345
+Niagara Region Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,30,369
+Niagara Region Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,369
+Niagara Region Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,1,345
+Niagara Region Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,369
+Niagara Region Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,9,379
+Niagara Region Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,70
+North Bay Parry Sound District Health Unit,Adenovirus,2026-27,44,2026-11-01,2026-11-07,2,100
+North Bay Parry Sound District Health Unit,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,17,100
+North Bay Parry Sound District Health Unit,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,100
+North Bay Parry Sound District Health Unit,Influenza A,2026-27,44,2026-11-01,2026-11-07,3,126
+North Bay Parry Sound District Health Unit,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,126
+North Bay Parry Sound District Health Unit,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,1,100
+North Bay Parry Sound District Health Unit,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,123
+North Bay Parry Sound District Health Unit,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,4,98
+North Bay Parry Sound District Health Unit,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,99
+Northeastern Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,17
+Northeastern Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,3,20
+Northeastern Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,20
+Northeastern Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,1,49
+Northeastern Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,49
+Northeastern Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,20
+Northeastern Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,49
+Northeastern Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,1,76
+Northeastern Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,19
+Northwestern Health Unit,Adenovirus,2026-27,44,2026-11-01,2026-11-07,1,6
+Northwestern Health Unit,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,1,6
+Northwestern Health Unit,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,6
+Northwestern Health Unit,Influenza A,2026-27,44,2026-11-01,2026-11-07,1,51
+Northwestern Health Unit,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,51
+Northwestern Health Unit,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,6
+Northwestern Health Unit,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,51
+Northwestern Health Unit,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,0,51
+Northwestern Health Unit,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,5
+Ontario,Adenovirus,2026-27,44,2026-11-01,2026-11-07,68,3726
+Ontario,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,558,4414
+Ontario,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,22,4324
+Ontario,Influenza A,2026-27,44,2026-11-01,2026-11-07,727,9542
+Ontario,Influenza B,2026-27,44,2026-11-01,2026-11-07,12,9449
+Ontario,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,68,4439
+Ontario,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,41,9381
+Ontario,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,358,9509
+Ontario,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,19,3551
+Ottawa Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,28,189
+Ottawa Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,41,190
+Ottawa Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,5,190
+Ottawa Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,48,803
+Ottawa Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,2,803
+Ottawa Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,11,190
+Ottawa Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,5,803
+Ottawa Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,46,809
+Ottawa Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,2,190
+Peel Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,1,282
+Peel Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,48,293
+Peel Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,284
+Peel Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,97,843
+Peel Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,7,842
+Peel Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,7,284
+Peel Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,5,840
+Peel Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,42,853
+Peel Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,2,285
+Public Health Sudbury & Districts,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,75
+Public Health Sudbury & Districts,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,8,76
+Public Health Sudbury & Districts,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,76
+Public Health Sudbury & Districts,Influenza A,2026-27,44,2026-11-01,2026-11-07,5,117
+Public Health Sudbury & Districts,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,117
+Public Health Sudbury & Districts,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,76
+Public Health Sudbury & Districts,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,117
+Public Health Sudbury & Districts,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,0,117
+Public Health Sudbury & Districts,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,2,73
+Region of Waterloo Public Health and Paramedic Services,Adenovirus,2026-27,44,2026-11-01,2026-11-07,3,280
+Region of Waterloo Public Health and Paramedic Services,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,34,280
+Region of Waterloo Public Health and Paramedic Services,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,1,279
+Region of Waterloo Public Health and Paramedic Services,Influenza A,2026-27,44,2026-11-01,2026-11-07,23,301
+Region of Waterloo Public Health and Paramedic Services,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,301
+Region of Waterloo Public Health and Paramedic Services,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,4,280
+Region of Waterloo Public Health and Paramedic Services,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,301
+Region of Waterloo Public Health and Paramedic Services,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,4,301
+Region of Waterloo Public Health and Paramedic Services,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,25
+Renfrew County and District Health Unit,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,6
+Renfrew County and District Health Unit,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,1,7
+Renfrew County and District Health Unit,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,7
+Renfrew County and District Health Unit,Influenza A,2026-27,44,2026-11-01,2026-11-07,6,78
+Renfrew County and District Health Unit,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,78
+Renfrew County and District Health Unit,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,1,7
+Renfrew County and District Health Unit,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,1,78
+Renfrew County and District Health Unit,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,1,79
+Renfrew County and District Health Unit,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,7
+Simcoe Muskoka District Health Unit,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,70
+Simcoe Muskoka District Health Unit,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,10,71
+Simcoe Muskoka District Health Unit,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,71
+Simcoe Muskoka District Health Unit,Influenza A,2026-27,44,2026-11-01,2026-11-07,32,508
+Simcoe Muskoka District Health Unit,Influenza B,2026-27,44,2026-11-01,2026-11-07,1,508
+Simcoe Muskoka District Health Unit,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,71
+Simcoe Muskoka District Health Unit,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,4,490
+Simcoe Muskoka District Health Unit,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,45,524
+Simcoe Muskoka District Health Unit,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,70
+South East Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,2,36
+South East Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,38,386
+South East Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,386
+South East Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,52,588
+South East Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,588
+South East Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,3,386
+South East Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,588
+South East Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,24,593
+South East Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,386
+Southwestern Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,21
+Southwestern Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,9,21
+Southwestern Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,20
+Southwestern Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,1,75
+Southwestern Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,75
+Southwestern Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,1,21
+Southwestern Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,0,75
+Southwestern Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,2,76
+Southwestern Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,13
+Thunder Bay District Health Unit,Adenovirus,2026-27,44,2026-11-01,2026-11-07,1,40
+Thunder Bay District Health Unit,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,13,40
+Thunder Bay District Health Unit,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,40
+Thunder Bay District Health Unit,Influenza A,2026-27,44,2026-11-01,2026-11-07,1,125
+Thunder Bay District Health Unit,Influenza B,2026-27,44,2026-11-01,2026-11-07,1,125
+Thunder Bay District Health Unit,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,2,40
+Thunder Bay District Health Unit,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,1,125
+Thunder Bay District Health Unit,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,2,125
+Thunder Bay District Health Unit,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,40
+Toronto Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,12,935
+Toronto Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,106,939
+Toronto Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,9,959
+Toronto Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,185,2153
+Toronto Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,2076
+Toronto Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,10,970
+Toronto Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,7,2043
+Toronto Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,98,2059
+Toronto Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,6,809
+Wellington-Dufferin-Guelph Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,29
+Wellington-Dufferin-Guelph Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,8,29
+Wellington-Dufferin-Guelph Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,29
+Wellington-Dufferin-Guelph Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,14,211
+Wellington-Dufferin-Guelph Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,210
+Wellington-Dufferin-Guelph Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,3,29
+Wellington-Dufferin-Guelph Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,3,210
+Wellington-Dufferin-Guelph Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,1,212
+Wellington-Dufferin-Guelph Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,21
+Windsor-Essex County Health Unit,Adenovirus,2026-27,44,2026-11-01,2026-11-07,0,9
+Windsor-Essex County Health Unit,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,2,9
+Windsor-Essex County Health Unit,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,9
+Windsor-Essex County Health Unit,Influenza A,2026-27,44,2026-11-01,2026-11-07,2,107
+Windsor-Essex County Health Unit,Influenza B,2026-27,44,2026-11-01,2026-11-07,0,107
+Windsor-Essex County Health Unit,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,0,9
+Windsor-Essex County Health Unit,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,1,107
+Windsor-Essex County Health Unit,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,7,107
+Windsor-Essex County Health Unit,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,0,6
+York Region Public Health,Adenovirus,2026-27,44,2026-11-01,2026-11-07,2,203
+York Region Public Health,Entero/Rhinovirus,2026-27,44,2026-11-01,2026-11-07,13,205
+York Region Public Health,Human metapneumovirus,2026-27,44,2026-11-01,2026-11-07,0,211
+York Region Public Health,Influenza A,2026-27,44,2026-11-01,2026-11-07,76,597
+York Region Public Health,Influenza B,2026-27,44,2026-11-01,2026-11-07,1,588
+York Region Public Health,Parainfluenza (all types),2026-27,44,2026-11-01,2026-11-07,7,212
+York Region Public Health,Respiratory syncytial virus,2026-27,44,2026-11-01,2026-11-07,7,586
+York Region Public Health,SARS-CoV-2,2026-27,44,2026-11-01,2026-11-07,18,593
+York Region Public Health,Seasonal human coronavirus,2026-27,44,2026-11-01,2026-11-07,1,207
 Algoma Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,75
 Algoma Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,9,75
 Algoma Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,75
-Algoma Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,0,97
-Algoma Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,97
+Algoma Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,0,100
+Algoma Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,100
 Algoma Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,1,75
-Algoma Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,95
-Algoma Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,0,103
+Algoma Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,96
+Algoma Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,0,107
 Algoma Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,1,75
-Chatham-Kent Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,8
-Chatham-Kent Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,2,8
-Chatham-Kent Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,1,8
-Chatham-Kent Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,3,30
-Chatham-Kent Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,30
-Chatham-Kent Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,8
-Chatham-Kent Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,30
-Chatham-Kent Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,0,30
-Chatham-Kent Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,7
-City of Hamilton Public Health Services,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,470
-City of Hamilton Public Health Services,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,36,470
-City of Hamilton Public Health Services,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,2,469
-City of Hamilton Public Health Services,Influenza A,2026-27,43,2026-10-25,2026-10-31,18,502
-City of Hamilton Public Health Services,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,502
-City of Hamilton Public Health Services,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,5,470
-City of Hamilton Public Health Services,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,1,502
-City of Hamilton Public Health Services,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,21,512
-City of Hamilton Public Health Services,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,1,468
-Durham Region Health Department,Adenovirus,2026-27,43,2026-10-25,2026-10-31,2,63
-Durham Region Health Department,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,11,70
-Durham Region Health Department,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,1,68
-Durham Region Health Department,Influenza A,2026-27,43,2026-10-25,2026-10-31,27,309
-Durham Region Health Department,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,307
-Durham Region Health Department,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,71
-Durham Region Health Department,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,306
-Durham Region Health Department,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,9,305
-Durham Region Health Department,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,1,68
+Chatham-Kent Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,10
+Chatham-Kent Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,3,10
+Chatham-Kent Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,1,10
+Chatham-Kent Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,3,36
+Chatham-Kent Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,36
+Chatham-Kent Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,10
+Chatham-Kent Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,36
+Chatham-Kent Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,0,36
+Chatham-Kent Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,9
+City of Hamilton Public Health Services,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,471
+City of Hamilton Public Health Services,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,37,471
+City of Hamilton Public Health Services,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,2,470
+City of Hamilton Public Health Services,Influenza A,2026-27,43,2026-10-25,2026-10-31,18,507
+City of Hamilton Public Health Services,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,507
+City of Hamilton Public Health Services,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,5,471
+City of Hamilton Public Health Services,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,1,507
+City of Hamilton Public Health Services,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,22,517
+City of Hamilton Public Health Services,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,1,469
+Durham Region Health Department,Adenovirus,2026-27,43,2026-10-25,2026-10-31,2,67
+Durham Region Health Department,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,13,74
+Durham Region Health Department,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,1,72
+Durham Region Health Department,Influenza A,2026-27,43,2026-10-25,2026-10-31,28,316
+Durham Region Health Department,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,314
+Durham Region Health Department,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,75
+Durham Region Health Department,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,313
+Durham Region Health Department,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,9,312
+Durham Region Health Department,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,1,72
 Eastern Ontario Health Unit,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,24
 Eastern Ontario Health Unit,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,10,26
 Eastern Ontario Health Unit,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,25
-Eastern Ontario Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,11,206
-Eastern Ontario Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,206
+Eastern Ontario Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,11,207
+Eastern Ontario Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,207
 Eastern Ontario Health Unit,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,25
-Eastern Ontario Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,206
-Eastern Ontario Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,10,207
+Eastern Ontario Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,207
+Eastern Ontario Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,10,208
 Eastern Ontario Health Unit,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,1,25
-Grand Erie Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,2,186
-Grand Erie Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,26,186
-Grand Erie Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,63
-Grand Erie Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,4,193
-Grand Erie Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,193
-Grand Erie Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,186
-Grand Erie Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,193
-Grand Erie Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,11,197
-Grand Erie Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,60
-Grey Bruce Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,14
-Grey Bruce Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,3,14
-Grey Bruce Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,14
-Grey Bruce Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,5,110
-Grey Bruce Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,110
-Grey Bruce Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,14
-Grey Bruce Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,110
-Grey Bruce Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,2,110
-Grey Bruce Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,9
-Halton Region Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,145
-Halton Region Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,16,146
-Halton Region Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,145
-Halton Region Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,20,277
-Halton Region Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,277
-Halton Region Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,1,145
-Halton Region Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,1,278
-Halton Region Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,7,280
-Halton Region Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,2,144
+Grand Erie Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,2,190
+Grand Erie Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,28,190
+Grand Erie Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,67
+Grand Erie Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,4,200
+Grand Erie Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,200
+Grand Erie Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,190
+Grand Erie Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,200
+Grand Erie Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,11,204
+Grand Erie Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,64
+Grey Bruce Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,16
+Grey Bruce Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,3,16
+Grey Bruce Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,16
+Grey Bruce Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,5,116
+Grey Bruce Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,116
+Grey Bruce Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,16
+Grey Bruce Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,116
+Grey Bruce Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,2,116
+Grey Bruce Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,11
+Halton Region Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,151
+Halton Region Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,16,152
+Halton Region Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,151
+Halton Region Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,22,288
+Halton Region Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,287
+Halton Region Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,1,151
+Halton Region Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,1,288
+Halton Region Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,7,290
+Halton Region Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,2,150
 Huron Perth Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,4
 Huron Perth Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,3,4
 Huron Perth Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,4
-Huron Perth Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,2,42
-Huron Perth Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,40
+Huron Perth Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,4,46
+Huron Perth Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,43
 Huron Perth Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,4
-Huron Perth Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,40
-Huron Perth Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,0,40
+Huron Perth Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,43
+Huron Perth Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,0,43
 Huron Perth Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,2
-Lakelands Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,13
-Lakelands Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,35,343
-Lakelands Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,343
-Lakelands Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,12,394
-Lakelands Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,394
-Lakelands Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,4,343
-Lakelands Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,393
-Lakelands Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,15,394
-Lakelands Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,343
+Lakelands Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,14
+Lakelands Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,36,344
+Lakelands Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,344
+Lakelands Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,13,396
+Lakelands Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,395
+Lakelands Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,4,344
+Lakelands Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,394
+Lakelands Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,15,395
+Lakelands Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,344
 Lambton Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,2
 Lambton Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,0,2
 Lambton Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,2
-Lambton Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,0,23
-Lambton Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,23
+Lambton Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,0,28
+Lambton Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,28
 Lambton Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,2
-Lambton Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,23
-Lambton Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,0,23
+Lambton Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,28
+Lambton Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,0,28
 Lambton Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,0
-Middlesex-London Health Unit,Adenovirus,2026-27,43,2026-10-25,2026-10-31,2,38
-Middlesex-London Health Unit,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,5,38
-Middlesex-London Health Unit,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,38
-Middlesex-London Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,5,228
-Middlesex-London Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,228
-Middlesex-London Health Unit,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,2,38
-Middlesex-London Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,5,228
-Middlesex-London Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,14,228
-Middlesex-London Health Unit,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,8
+Middlesex-London Health Unit,Adenovirus,2026-27,43,2026-10-25,2026-10-31,2,40
+Middlesex-London Health Unit,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,6,40
+Middlesex-London Health Unit,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,40
+Middlesex-London Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,5,233
+Middlesex-London Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,233
+Middlesex-London Health Unit,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,2,40
+Middlesex-London Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,5,233
+Middlesex-London Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,14,233
+Middlesex-London Health Unit,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,10
 Niagara Region Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,2,323
 Niagara Region Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,31,323
 Niagara Region Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,1,323
-Niagara Region Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,9,349
-Niagara Region Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,3,349
+Niagara Region Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,9,359
+Niagara Region Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,3,359
 Niagara Region Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,2,323
-Niagara Region Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,349
-Niagara Region Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,9,354
+Niagara Region Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,359
+Niagara Region Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,10,362
 Niagara Region Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,69
 North Bay Parry Sound District Health Unit,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,123
 North Bay Parry Sound District Health Unit,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,22,123
@@ -128,147 +398,147 @@ North Bay Parry Sound District Health Unit,Seasonal human coronavirus,2026-27,43
 Northeastern Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,19
 Northeastern Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,4,21
 Northeastern Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,21
-Northeastern Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,1,36
-Northeastern Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,36
+Northeastern Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,1,37
+Northeastern Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,37
 Northeastern Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,1,21
-Northeastern Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,36
-Northeastern Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,2,62
+Northeastern Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,37
+Northeastern Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,2,63
 Northeastern Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,20
 Northwestern Health Unit,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,3
 Northwestern Health Unit,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,0,3
 Northwestern Health Unit,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,3
-Northwestern Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,0,53
-Northwestern Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,53
+Northwestern Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,0,54
+Northwestern Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,54
 Northwestern Health Unit,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,3
-Northwestern Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,53
-Northwestern Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,3,53
+Northwestern Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,54
+Northwestern Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,3,54
 Northwestern Health Unit,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,3
-Ontario,Adenovirus,2026-27,43,2026-10-25,2026-10-31,56,3601
-Ontario,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,534,4270
-Ontario,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,15,4150
-Ontario,Influenza A,2026-27,43,2026-10-25,2026-10-31,616,8953
-Ontario,Influenza B,2026-27,43,2026-10-25,2026-10-31,20,8847
-Ontario,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,75,4282
-Ontario,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,31,8825
-Ontario,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,322,8936
-Ontario,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,28,3471
-Ottawa Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,22,143
-Ottawa Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,45,144
-Ottawa Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,3,144
-Ottawa Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,49,744
-Ottawa Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,1,744
-Ottawa Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,15,144
-Ottawa Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,3,744
-Ottawa Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,49,751
-Ottawa Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,144
-Peel Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,3,322
-Peel Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,49,329
-Peel Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,2,321
-Peel Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,118,924
-Peel Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,7,913
-Peel Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,7,323
-Peel Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,9,914
-Peel Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,29,910
-Peel Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,6,321
-Public Health Sudbury & Districts,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,106
-Public Health Sudbury & Districts,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,13,107
-Public Health Sudbury & Districts,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,2,107
-Public Health Sudbury & Districts,Influenza A,2026-27,43,2026-10-25,2026-10-31,3,142
-Public Health Sudbury & Districts,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,142
-Public Health Sudbury & Districts,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,1,107
-Public Health Sudbury & Districts,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,142
-Public Health Sudbury & Districts,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,1,144
-Public Health Sudbury & Districts,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,2,107
+Ontario,Adenovirus,2026-27,43,2026-10-25,2026-10-31,58,3659
+Ontario,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,555,4328
+Ontario,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,15,4208
+Ontario,Influenza A,2026-27,43,2026-10-25,2026-10-31,652,9141
+Ontario,Influenza B,2026-27,43,2026-10-25,2026-10-31,20,9011
+Ontario,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,75,4340
+Ontario,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,31,8988
+Ontario,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,337,9101
+Ontario,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,28,3528
+Ottawa Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,22,149
+Ottawa Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,48,150
+Ottawa Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,3,150
+Ottawa Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,49,757
+Ottawa Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,1,757
+Ottawa Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,15,150
+Ottawa Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,3,757
+Ottawa Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,53,765
+Ottawa Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,150
+Peel Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,3,325
+Peel Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,51,332
+Peel Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,2,324
+Peel Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,126,940
+Peel Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,7,923
+Peel Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,7,326
+Peel Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,9,924
+Peel Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,29,920
+Peel Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,6,324
+Public Health Sudbury & Districts,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,107
+Public Health Sudbury & Districts,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,13,108
+Public Health Sudbury & Districts,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,2,108
+Public Health Sudbury & Districts,Influenza A,2026-27,43,2026-10-25,2026-10-31,3,144
+Public Health Sudbury & Districts,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,144
+Public Health Sudbury & Districts,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,1,108
+Public Health Sudbury & Districts,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,144
+Public Health Sudbury & Districts,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,1,146
+Public Health Sudbury & Districts,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,2,108
 Region of Waterloo Public Health and Paramedic Services,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,249
 Region of Waterloo Public Health and Paramedic Services,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,26,249
 Region of Waterloo Public Health and Paramedic Services,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,249
-Region of Waterloo Public Health and Paramedic Services,Influenza A,2026-27,43,2026-10-25,2026-10-31,30,280
-Region of Waterloo Public Health and Paramedic Services,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,271
+Region of Waterloo Public Health and Paramedic Services,Influenza A,2026-27,43,2026-10-25,2026-10-31,30,283
+Region of Waterloo Public Health and Paramedic Services,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,274
 Region of Waterloo Public Health and Paramedic Services,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,3,249
-Region of Waterloo Public Health and Paramedic Services,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,271
-Region of Waterloo Public Health and Paramedic Services,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,3,272
+Region of Waterloo Public Health and Paramedic Services,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,274
+Region of Waterloo Public Health and Paramedic Services,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,3,275
 Region of Waterloo Public Health and Paramedic Services,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,37
 Renfrew County and District Health Unit,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,6
 Renfrew County and District Health Unit,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,0,6
 Renfrew County and District Health Unit,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,6
-Renfrew County and District Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,2,79
-Renfrew County and District Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,1,79
+Renfrew County and District Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,2,81
+Renfrew County and District Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,1,81
 Renfrew County and District Health Unit,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,1,6
-Renfrew County and District Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,79
-Renfrew County and District Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,5,80
+Renfrew County and District Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,81
+Renfrew County and District Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,6,82
 Renfrew County and District Health Unit,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,6
-Simcoe Muskoka District Health Unit,Adenovirus,2026-27,43,2026-10-25,2026-10-31,3,83
-Simcoe Muskoka District Health Unit,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,8,85
-Simcoe Muskoka District Health Unit,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,85
-Simcoe Muskoka District Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,24,410
-Simcoe Muskoka District Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,1,409
-Simcoe Muskoka District Health Unit,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,84
-Simcoe Muskoka District Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,1,392
-Simcoe Muskoka District Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,37,465
-Simcoe Muskoka District Health Unit,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,7,84
-South East Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,23
-South East Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,39,330
-South East Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,330
-South East Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,20,484
-South East Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,1,484
-South East Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,330
-South East Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,484
-South East Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,14,486
-South East Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,330
-Southwestern Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,15
-Southwestern Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,0,15
-Southwestern Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,15
-Southwestern Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,10,69
-Southwestern Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,69
-Southwestern Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,15
-Southwestern Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,69
-Southwestern Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,2,69
-Southwestern Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,3
-Thunder Bay District Health Unit,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,40
-Thunder Bay District Health Unit,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,10,40
-Thunder Bay District Health Unit,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,40
-Thunder Bay District Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,0,113
-Thunder Bay District Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,113
-Thunder Bay District Health Unit,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,40
-Thunder Bay District Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,113
-Thunder Bay District Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,4,113
-Thunder Bay District Health Unit,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,39
-Toronto Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,10,852
-Toronto Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,97,862
-Toronto Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,2,873
-Toronto Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,166,1898
-Toronto Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,6,1827
-Toronto Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,21,878
-Toronto Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,9,1826
-Toronto Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,55,1823
-Toronto Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,3,731
-Wellington-Dufferin-Guelph Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,24
-Wellington-Dufferin-Guelph Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,9,25
-Wellington-Dufferin-Guelph Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,1,25
-Wellington-Dufferin-Guelph Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,6,172
-Wellington-Dufferin-Guelph Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,172
-Wellington-Dufferin-Guelph Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,2,25
-Wellington-Dufferin-Guelph Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,172
-Wellington-Dufferin-Guelph Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,0,178
-Wellington-Dufferin-Guelph Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,20
+Simcoe Muskoka District Health Unit,Adenovirus,2026-27,43,2026-10-25,2026-10-31,4,91
+Simcoe Muskoka District Health Unit,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,11,93
+Simcoe Muskoka District Health Unit,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,93
+Simcoe Muskoka District Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,24,417
+Simcoe Muskoka District Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,1,416
+Simcoe Muskoka District Health Unit,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,92
+Simcoe Muskoka District Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,1,399
+Simcoe Muskoka District Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,37,472
+Simcoe Muskoka District Health Unit,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,7,92
+South East Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,25
+South East Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,39,332
+South East Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,332
+South East Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,21,487
+South East Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,1,487
+South East Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,332
+South East Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,487
+South East Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,14,489
+South East Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,332
+Southwestern Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,17
+Southwestern Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,1,17
+Southwestern Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,17
+Southwestern Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,10,76
+Southwestern Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,76
+Southwestern Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,17
+Southwestern Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,76
+Southwestern Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,2,76
+Southwestern Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,5
+Thunder Bay District Health Unit,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,41
+Thunder Bay District Health Unit,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,10,41
+Thunder Bay District Health Unit,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,41
+Thunder Bay District Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,0,114
+Thunder Bay District Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,114
+Thunder Bay District Health Unit,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,0,41
+Thunder Bay District Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,114
+Thunder Bay District Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,4,115
+Thunder Bay District Health Unit,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,40
+Toronto Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,11,857
+Toronto Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,98,867
+Toronto Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,2,878
+Toronto Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,183,1932
+Toronto Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,6,1846
+Toronto Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,21,883
+Toronto Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,9,1846
+Toronto Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,56,1842
+Toronto Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,3,735
+Wellington-Dufferin-Guelph Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,0,25
+Wellington-Dufferin-Guelph Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,10,26
+Wellington-Dufferin-Guelph Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,1,26
+Wellington-Dufferin-Guelph Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,6,179
+Wellington-Dufferin-Guelph Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,179
+Wellington-Dufferin-Guelph Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,2,26
+Wellington-Dufferin-Guelph Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,179
+Wellington-Dufferin-Guelph Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,1,185
+Wellington-Dufferin-Guelph Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,21
 Windsor-Essex County Health Unit,Adenovirus,2026-27,43,2026-10-25,2026-10-31,1,26
 Windsor-Essex County Health Unit,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,7,26
 Windsor-Essex County Health Unit,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,26
-Windsor-Essex County Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,5,109
-Windsor-Essex County Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,108
+Windsor-Essex County Health Unit,Influenza A,2026-27,43,2026-10-25,2026-10-31,6,113
+Windsor-Essex County Health Unit,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,112
 Windsor-Essex County Health Unit,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,3,27
-Windsor-Essex County Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,107
-Windsor-Essex County Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,2,108
+Windsor-Essex County Health Unit,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,0,111
+Windsor-Essex County Health Unit,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,2,112
 Windsor-Essex County Health Unit,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,0,21
-York Region Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,3,202
-York Region Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,18,200
-York Region Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,205
-York Region Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,65,531
-York Region Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,522
-York Region Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,4,203
-York Region Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,2,524
-York Region Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,17,524
-York Region Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,4,204
+York Region Public Health,Adenovirus,2026-27,43,2026-10-25,2026-10-31,3,209
+York Region Public Health,Entero/Rhinovirus,2026-27,43,2026-10-25,2026-10-31,20,207
+York Region Public Health,Human metapneumovirus,2026-27,43,2026-10-25,2026-10-31,0,212
+York Region Public Health,Influenza A,2026-27,43,2026-10-25,2026-10-31,68,546
+York Region Public Health,Influenza B,2026-27,43,2026-10-25,2026-10-31,0,537
+York Region Public Health,Parainfluenza (all types),2026-27,43,2026-10-25,2026-10-31,4,210
+York Region Public Health,Respiratory syncytial virus,2026-27,43,2026-10-25,2026-10-31,2,539
+York Region Public Health,SARS-CoV-2,2026-27,43,2026-10-25,2026-10-31,23,539
+York Region Public Health,Seasonal human coronavirus,2026-27,43,2026-10-25,2026-10-31,4,211
 Algoma Public Health,Adenovirus,2026-27,42,2026-10-18,2026-10-24,0,62
 Algoma Public Health,Entero/Rhinovirus,2026-27,42,2026-10-18,2026-10-24,16,62
 Algoma Public Health,Human metapneumovirus,2026-27,42,2026-10-18,2026-10-24,0,62
@@ -416,11 +686,11 @@ Northwestern Health Unit,Seasonal human coronavirus,2026-27,42,2026-10-18,2026-1
 Ontario,Adenovirus,2026-27,42,2026-10-18,2026-10-24,44,3738
 Ontario,Entero/Rhinovirus,2026-27,42,2026-10-18,2026-10-24,721,4377
 Ontario,Human metapneumovirus,2026-27,42,2026-10-18,2026-10-24,13,4255
-Ontario,Influenza A,2026-27,42,2026-10-18,2026-10-24,407,8873
-Ontario,Influenza B,2026-27,42,2026-10-18,2026-10-24,7,8782
+Ontario,Influenza A,2026-27,42,2026-10-18,2026-10-24,407,8874
+Ontario,Influenza B,2026-27,42,2026-10-18,2026-10-24,7,8783
 Ontario,Parainfluenza (all types),2026-27,42,2026-10-18,2026-10-24,69,4373
-Ontario,Respiratory syncytial virus,2026-27,42,2026-10-18,2026-10-24,26,8741
-Ontario,SARS-CoV-2,2026-27,42,2026-10-18,2026-10-24,294,8873
+Ontario,Respiratory syncytial virus,2026-27,42,2026-10-18,2026-10-24,26,8742
+Ontario,SARS-CoV-2,2026-27,42,2026-10-18,2026-10-24,294,8874
 Ontario,Seasonal human coronavirus,2026-27,42,2026-10-18,2026-10-24,18,3539
 Ottawa Public Health,Adenovirus,2026-27,42,2026-10-18,2026-10-24,16,176
 Ottawa Public Health,Entero/Rhinovirus,2026-27,42,2026-10-18,2026-10-24,59,176
@@ -533,11 +803,11 @@ Windsor-Essex County Health Unit,Seasonal human coronavirus,2026-27,42,2026-10-1
 York Region Public Health,Adenovirus,2026-27,42,2026-10-18,2026-10-24,1,215
 York Region Public Health,Entero/Rhinovirus,2026-27,42,2026-10-18,2026-10-24,39,219
 York Region Public Health,Human metapneumovirus,2026-27,42,2026-10-18,2026-10-24,0,223
-York Region Public Health,Influenza A,2026-27,42,2026-10-18,2026-10-24,37,581
-York Region Public Health,Influenza B,2026-27,42,2026-10-18,2026-10-24,0,572
+York Region Public Health,Influenza A,2026-27,42,2026-10-18,2026-10-24,37,582
+York Region Public Health,Influenza B,2026-27,42,2026-10-18,2026-10-24,0,573
 York Region Public Health,Parainfluenza (all types),2026-27,42,2026-10-18,2026-10-24,2,219
-York Region Public Health,Respiratory syncytial virus,2026-27,42,2026-10-18,2026-10-24,1,566
-York Region Public Health,SARS-CoV-2,2026-27,42,2026-10-18,2026-10-24,24,574
+York Region Public Health,Respiratory syncytial virus,2026-27,42,2026-10-18,2026-10-24,1,567
+York Region Public Health,SARS-CoV-2,2026-27,42,2026-10-18,2026-10-24,24,575
 York Region Public Health,Seasonal human coronavirus,2026-27,42,2026-10-18,2026-10-24,1,216
 Algoma Public Health,Adenovirus,2026-27,41,2026-10-11,2026-10-17,0,107
 Algoma Public Health,Entero/Rhinovirus,2026-27,41,2026-10-11,2026-10-17,32,107
@@ -546,7 +816,7 @@ Algoma Public Health,Influenza A,2026-27,41,2026-10-11,2026-10-17,0,142
 Algoma Public Health,Influenza B,2026-27,41,2026-10-11,2026-10-17,0,142
 Algoma Public Health,Parainfluenza (all types),2026-27,41,2026-10-11,2026-10-17,3,107
 Algoma Public Health,Respiratory syncytial virus,2026-27,41,2026-10-11,2026-10-17,1,124
-Algoma Public Health,SARS-CoV-2,2026-27,41,2026-10-11,2026-10-17,2,150
+Algoma Public Health,SARS-CoV-2,2026-27,41,2026-10-11,2026-10-17,2,151
 Algoma Public Health,Seasonal human coronavirus,2026-27,41,2026-10-11,2026-10-17,0,106
 Chatham-Kent Public Health,Adenovirus,2026-27,41,2026-10-11,2026-10-17,0,7
 Chatham-Kent Public Health,Entero/Rhinovirus,2026-27,41,2026-10-11,2026-10-17,3,8
@@ -686,11 +956,11 @@ Northwestern Health Unit,Seasonal human coronavirus,2026-27,41,2026-10-11,2026-1
 Ontario,Adenovirus,2026-27,41,2026-10-11,2026-10-17,30,3904
 Ontario,Entero/Rhinovirus,2026-27,41,2026-10-11,2026-10-17,801,4503
 Ontario,Human metapneumovirus,2026-27,41,2026-10-11,2026-10-17,22,4343
-Ontario,Influenza A,2026-27,41,2026-10-11,2026-10-17,322,8994
-Ontario,Influenza B,2026-27,41,2026-10-11,2026-10-17,7,8896
+Ontario,Influenza A,2026-27,41,2026-10-11,2026-10-17,323,8995
+Ontario,Influenza B,2026-27,41,2026-10-11,2026-10-17,7,8897
 Ontario,Parainfluenza (all types),2026-27,41,2026-10-11,2026-10-17,58,4510
-Ontario,Respiratory syncytial virus,2026-27,41,2026-10-11,2026-10-17,19,8842
-Ontario,SARS-CoV-2,2026-27,41,2026-10-11,2026-10-17,313,9014
+Ontario,Respiratory syncytial virus,2026-27,41,2026-10-11,2026-10-17,19,8843
+Ontario,SARS-CoV-2,2026-27,41,2026-10-11,2026-10-17,313,9016
 Ontario,Seasonal human coronavirus,2026-27,41,2026-10-11,2026-10-17,13,3560
 Ottawa Public Health,Adenovirus,2026-27,41,2026-10-11,2026-10-17,8,155
 Ottawa Public Health,Entero/Rhinovirus,2026-27,41,2026-10-11,2026-10-17,67,156
@@ -803,11 +1073,11 @@ Windsor-Essex County Health Unit,Seasonal human coronavirus,2026-27,41,2026-10-1
 York Region Public Health,Adenovirus,2026-27,41,2026-10-11,2026-10-17,1,201
 York Region Public Health,Entero/Rhinovirus,2026-27,41,2026-10-11,2026-10-17,30,203
 York Region Public Health,Human metapneumovirus,2026-27,41,2026-10-11,2026-10-17,0,206
-York Region Public Health,Influenza A,2026-27,41,2026-10-11,2026-10-17,31,582
-York Region Public Health,Influenza B,2026-27,41,2026-10-11,2026-10-17,1,573
+York Region Public Health,Influenza A,2026-27,41,2026-10-11,2026-10-17,32,583
+York Region Public Health,Influenza B,2026-27,41,2026-10-11,2026-10-17,1,574
 York Region Public Health,Parainfluenza (all types),2026-27,41,2026-10-11,2026-10-17,2,200
-York Region Public Health,Respiratory syncytial virus,2026-27,41,2026-10-11,2026-10-17,0,576
-York Region Public Health,SARS-CoV-2,2026-27,41,2026-10-11,2026-10-17,26,576
+York Region Public Health,Respiratory syncytial virus,2026-27,41,2026-10-11,2026-10-17,0,577
+York Region Public Health,SARS-CoV-2,2026-27,41,2026-10-11,2026-10-17,26,577
 York Region Public Health,Seasonal human coronavirus,2026-27,41,2026-10-11,2026-10-17,0,200
 Algoma Public Health,Adenovirus,2026-27,40,2026-10-04,2026-10-10,1,90
 Algoma Public Health,Entero/Rhinovirus,2026-27,40,2026-10-04,2026-10-10,30,90
@@ -1106,15 +1376,15 @@ City of Hamilton Public Health Services,Parainfluenza (all types),2026-27,39,202
 City of Hamilton Public Health Services,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,0,458
 City of Hamilton Public Health Services,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,10,463
 City of Hamilton Public Health Services,Seasonal human coronavirus,2026-27,39,2026-09-27,2026-10-03,5,424
-Durham Region Health Department,Adenovirus,2026-27,39,2026-09-27,2026-10-03,0,83
-Durham Region Health Department,Entero/Rhinovirus,2026-27,39,2026-09-27,2026-10-03,17,85
-Durham Region Health Department,Human metapneumovirus,2026-27,39,2026-09-27,2026-10-03,0,85
-Durham Region Health Department,Influenza A,2026-27,39,2026-09-27,2026-10-03,13,329
-Durham Region Health Department,Influenza B,2026-27,39,2026-09-27,2026-10-03,0,329
-Durham Region Health Department,Parainfluenza (all types),2026-27,39,2026-09-27,2026-10-03,1,85
-Durham Region Health Department,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,2,329
-Durham Region Health Department,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,17,329
-Durham Region Health Department,Seasonal human coronavirus,2026-27,39,2026-09-27,2026-10-03,0,80
+Durham Region Health Department,Adenovirus,2026-27,39,2026-09-27,2026-10-03,0,84
+Durham Region Health Department,Entero/Rhinovirus,2026-27,39,2026-09-27,2026-10-03,17,86
+Durham Region Health Department,Human metapneumovirus,2026-27,39,2026-09-27,2026-10-03,0,86
+Durham Region Health Department,Influenza A,2026-27,39,2026-09-27,2026-10-03,13,330
+Durham Region Health Department,Influenza B,2026-27,39,2026-09-27,2026-10-03,0,330
+Durham Region Health Department,Parainfluenza (all types),2026-27,39,2026-09-27,2026-10-03,1,86
+Durham Region Health Department,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,2,330
+Durham Region Health Department,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,17,330
+Durham Region Health Department,Seasonal human coronavirus,2026-27,39,2026-09-27,2026-10-03,0,81
 Eastern Ontario Health Unit,Adenovirus,2026-27,39,2026-09-27,2026-10-03,0,20
 Eastern Ontario Health Unit,Entero/Rhinovirus,2026-27,39,2026-09-27,2026-10-03,13,21
 Eastern Ontario Health Unit,Human metapneumovirus,2026-27,39,2026-09-27,2026-10-03,0,21
@@ -1223,23 +1493,23 @@ Northwestern Health Unit,Parainfluenza (all types),2026-27,39,2026-09-27,2026-10
 Northwestern Health Unit,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,0,47
 Northwestern Health Unit,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,1,48
 Northwestern Health Unit,Seasonal human coronavirus,2026-27,39,2026-09-27,2026-10-03,0,7
-Ontario,Adenovirus,2026-27,39,2026-09-27,2026-10-03,17,3738
-Ontario,Entero/Rhinovirus,2026-27,39,2026-09-27,2026-10-03,903,4253
-Ontario,Human metapneumovirus,2026-27,39,2026-09-27,2026-10-03,22,4174
-Ontario,Influenza A,2026-27,39,2026-09-27,2026-10-03,286,8232
-Ontario,Influenza B,2026-27,39,2026-09-27,2026-10-03,6,8153
-Ontario,Parainfluenza (all types),2026-27,39,2026-09-27,2026-10-03,64,4253
-Ontario,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,18,8083
-Ontario,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,305,8405
-Ontario,Seasonal human coronavirus,2026-27,39,2026-09-27,2026-10-03,18,3389
+Ontario,Adenovirus,2026-27,39,2026-09-27,2026-10-03,17,3739
+Ontario,Entero/Rhinovirus,2026-27,39,2026-09-27,2026-10-03,903,4254
+Ontario,Human metapneumovirus,2026-27,39,2026-09-27,2026-10-03,22,4175
+Ontario,Influenza A,2026-27,39,2026-09-27,2026-10-03,286,8236
+Ontario,Influenza B,2026-27,39,2026-09-27,2026-10-03,6,8157
+Ontario,Parainfluenza (all types),2026-27,39,2026-09-27,2026-10-03,64,4254
+Ontario,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,18,8087
+Ontario,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,305,8409
+Ontario,Seasonal human coronavirus,2026-27,39,2026-09-27,2026-10-03,18,3390
 Ottawa Public Health,Adenovirus,2026-27,39,2026-09-27,2026-10-03,3,126
 Ottawa Public Health,Entero/Rhinovirus,2026-27,39,2026-09-27,2026-10-03,59,127
 Ottawa Public Health,Human metapneumovirus,2026-27,39,2026-09-27,2026-10-03,4,127
-Ottawa Public Health,Influenza A,2026-27,39,2026-09-27,2026-10-03,15,594
-Ottawa Public Health,Influenza B,2026-27,39,2026-09-27,2026-10-03,0,594
+Ottawa Public Health,Influenza A,2026-27,39,2026-09-27,2026-10-03,15,595
+Ottawa Public Health,Influenza B,2026-27,39,2026-09-27,2026-10-03,0,595
 Ottawa Public Health,Parainfluenza (all types),2026-27,39,2026-09-27,2026-10-03,5,127
-Ottawa Public Health,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,1,594
-Ottawa Public Health,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,22,601
+Ottawa Public Health,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,1,595
+Ottawa Public Health,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,22,602
 Ottawa Public Health,Seasonal human coronavirus,2026-27,39,2026-09-27,2026-10-03,1,125
 Peel Public Health,Adenovirus,2026-27,39,2026-09-27,2026-10-03,0,312
 Peel Public Health,Entero/Rhinovirus,2026-27,39,2026-09-27,2026-10-03,59,324
@@ -1262,11 +1532,11 @@ Public Health Sudbury & Districts,Seasonal human coronavirus,2026-27,39,2026-09-
 Region of Waterloo Public Health and Paramedic Services,Adenovirus,2026-27,39,2026-09-27,2026-10-03,0,327
 Region of Waterloo Public Health and Paramedic Services,Entero/Rhinovirus,2026-27,39,2026-09-27,2026-10-03,52,327
 Region of Waterloo Public Health and Paramedic Services,Human metapneumovirus,2026-27,39,2026-09-27,2026-10-03,1,327
-Region of Waterloo Public Health and Paramedic Services,Influenza A,2026-27,39,2026-09-27,2026-10-03,16,350
-Region of Waterloo Public Health and Paramedic Services,Influenza B,2026-27,39,2026-09-27,2026-10-03,0,345
+Region of Waterloo Public Health and Paramedic Services,Influenza A,2026-27,39,2026-09-27,2026-10-03,16,351
+Region of Waterloo Public Health and Paramedic Services,Influenza B,2026-27,39,2026-09-27,2026-10-03,0,346
 Region of Waterloo Public Health and Paramedic Services,Parainfluenza (all types),2026-27,39,2026-09-27,2026-10-03,0,327
-Region of Waterloo Public Health and Paramedic Services,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,0,345
-Region of Waterloo Public Health and Paramedic Services,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,11,350
+Region of Waterloo Public Health and Paramedic Services,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,0,346
+Region of Waterloo Public Health and Paramedic Services,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,11,351
 Region of Waterloo Public Health and Paramedic Services,Seasonal human coronavirus,2026-27,39,2026-09-27,2026-10-03,0,26
 Renfrew County and District Health Unit,Adenovirus,2026-27,39,2026-09-27,2026-10-03,0,5
 Renfrew County and District Health Unit,Entero/Rhinovirus,2026-27,39,2026-09-27,2026-10-03,2,5
@@ -1289,11 +1559,11 @@ Simcoe Muskoka District Health Unit,Seasonal human coronavirus,2026-27,39,2026-0
 South East Public Health,Adenovirus,2026-27,39,2026-09-27,2026-10-03,0,49
 South East Public Health,Entero/Rhinovirus,2026-27,39,2026-09-27,2026-10-03,69,304
 South East Public Health,Human metapneumovirus,2026-27,39,2026-09-27,2026-10-03,0,304
-South East Public Health,Influenza A,2026-27,39,2026-09-27,2026-10-03,7,440
-South East Public Health,Influenza B,2026-27,39,2026-09-27,2026-10-03,0,440
+South East Public Health,Influenza A,2026-27,39,2026-09-27,2026-10-03,7,441
+South East Public Health,Influenza B,2026-27,39,2026-09-27,2026-10-03,0,441
 South East Public Health,Parainfluenza (all types),2026-27,39,2026-09-27,2026-10-03,5,304
-South East Public Health,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,1,440
-South East Public Health,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,15,443
+South East Public Health,Respiratory syncytial virus,2026-27,39,2026-09-27,2026-10-03,1,441
+South East Public Health,SARS-CoV-2,2026-27,39,2026-09-27,2026-10-03,15,444
 South East Public Health,Seasonal human coronavirus,2026-27,39,2026-09-27,2026-10-03,1,303
 Southwestern Public Health,Adenovirus,2026-27,39,2026-09-27,2026-10-03,0,24
 Southwestern Public Health,Entero/Rhinovirus,2026-27,39,2026-09-27,2026-10-03,7,25
@@ -1496,7 +1766,7 @@ Northwestern Health Unit,Seasonal human coronavirus,2026-27,38,2026-09-20,2026-0
 Ontario,Adenovirus,2026-27,38,2026-09-20,2026-09-26,8,3242
 Ontario,Entero/Rhinovirus,2026-27,38,2026-09-20,2026-09-26,743,3753
 Ontario,Human metapneumovirus,2026-27,38,2026-09-20,2026-09-26,19,3718
-Ontario,Influenza A,2026-27,38,2026-09-20,2026-09-26,233,7422
+Ontario,Influenza A,2026-27,38,2026-09-20,2026-09-26,233,7423
 Ontario,Influenza B,2026-27,38,2026-09-20,2026-09-26,2,7334
 Ontario,Parainfluenza (all types),2026-27,38,2026-09-20,2026-09-26,66,3761
 Ontario,Respiratory syncytial virus,2026-27,38,2026-09-20,2026-09-26,8,7279
@@ -1514,7 +1784,7 @@ Ottawa Public Health,Seasonal human coronavirus,2026-27,38,2026-09-20,2026-09-26
 Peel Public Health,Adenovirus,2026-27,38,2026-09-20,2026-09-26,0,284
 Peel Public Health,Entero/Rhinovirus,2026-27,38,2026-09-20,2026-09-26,64,300
 Peel Public Health,Human metapneumovirus,2026-27,38,2026-09-20,2026-09-26,3,287
-Peel Public Health,Influenza A,2026-27,38,2026-09-20,2026-09-26,34,744
+Peel Public Health,Influenza A,2026-27,38,2026-09-20,2026-09-26,34,745
 Peel Public Health,Influenza B,2026-27,38,2026-09-20,2026-09-26,0,742
 Peel Public Health,Parainfluenza (all types),2026-27,38,2026-09-20,2026-09-26,7,288
 Peel Public Health,Respiratory syncytial virus,2026-27,38,2026-09-20,2026-09-26,1,741
@@ -2307,7 +2577,7 @@ Ontario,Adenovirus,2026-27,35,2026-08-30,2026-09-05,22,2742
 Ontario,Entero/Rhinovirus,2026-27,35,2026-08-30,2026-09-05,341,3135
 Ontario,Human metapneumovirus,2026-27,35,2026-08-30,2026-09-05,12,3063
 Ontario,Influenza A,2026-27,35,2026-08-30,2026-09-05,78,5911
-Ontario,Influenza B,2026-27,35,2026-08-30,2026-09-05,2,5848
+Ontario,Influenza B,2026-27,35,2026-08-30,2026-09-05,2,5849
 Ontario,Parainfluenza (all types),2026-27,35,2026-08-30,2026-09-05,52,3135
 Ontario,Respiratory syncytial virus,2026-27,35,2026-08-30,2026-09-05,6,5805
 Ontario,SARS-CoV-2,2026-27,35,2026-08-30,2026-09-05,139,5990
@@ -2325,7 +2595,7 @@ Peel Public Health,Adenovirus,2026-27,35,2026-08-30,2026-09-05,6,243
 Peel Public Health,Entero/Rhinovirus,2026-27,35,2026-08-30,2026-09-05,26,250
 Peel Public Health,Human metapneumovirus,2026-27,35,2026-08-30,2026-09-05,3,242
 Peel Public Health,Influenza A,2026-27,35,2026-08-30,2026-09-05,13,623
-Peel Public Health,Influenza B,2026-27,35,2026-08-30,2026-09-05,0,622
+Peel Public Health,Influenza B,2026-27,35,2026-08-30,2026-09-05,0,623
 Peel Public Health,Parainfluenza (all types),2026-27,35,2026-08-30,2026-09-05,9,242
 Peel Public Health,Respiratory syncytial virus,2026-27,35,2026-08-30,2026-09-05,2,621
 Peel Public Health,SARS-CoV-2,2026-27,35,2026-08-30,2026-09-05,16,622
@@ -3927,9 +4197,9 @@ Ontario,Adenovirus,2025-26,29,2026-07-19,2026-07-25,16,2459
 Ontario,Entero/Rhinovirus,2025-26,29,2026-07-19,2026-07-25,298,2899
 Ontario,Human metapneumovirus,2025-26,29,2026-07-19,2026-07-25,25,2854
 Ontario,Influenza A,2025-26,29,2026-07-19,2026-07-25,8,5611
-Ontario,Influenza B,2025-26,29,2026-07-19,2026-07-25,8,5577
+Ontario,Influenza B,2025-26,29,2026-07-19,2026-07-25,8,5578
 Ontario,Parainfluenza (all types),2025-26,29,2026-07-19,2026-07-25,72,2940
-Ontario,Respiratory syncytial virus,2025-26,29,2026-07-19,2026-07-25,8,5529
+Ontario,Respiratory syncytial virus,2025-26,29,2026-07-19,2026-07-25,8,5528
 Ontario,SARS-CoV-2,2025-26,29,2026-07-19,2026-07-25,63,5653
 Ontario,Seasonal human coronavirus,2025-26,29,2026-07-19,2026-07-25,5,2357
 Ottawa Public Health,Adenovirus,2025-26,29,2026-07-19,2026-07-25,3,89
@@ -3945,9 +4215,9 @@ Peel Public Health,Adenovirus,2025-26,29,2026-07-19,2026-07-25,1,222
 Peel Public Health,Entero/Rhinovirus,2025-26,29,2026-07-19,2026-07-25,18,227
 Peel Public Health,Human metapneumovirus,2025-26,29,2026-07-19,2026-07-25,6,224
 Peel Public Health,Influenza A,2025-26,29,2026-07-19,2026-07-25,1,577
-Peel Public Health,Influenza B,2025-26,29,2026-07-19,2026-07-25,3,577
+Peel Public Health,Influenza B,2025-26,29,2026-07-19,2026-07-25,3,578
 Peel Public Health,Parainfluenza (all types),2025-26,29,2026-07-19,2026-07-25,5,222
-Peel Public Health,Respiratory syncytial virus,2025-26,29,2026-07-19,2026-07-25,3,577
+Peel Public Health,Respiratory syncytial virus,2025-26,29,2026-07-19,2026-07-25,3,576
 Peel Public Health,SARS-CoV-2,2025-26,29,2026-07-19,2026-07-25,3,559
 Peel Public Health,Seasonal human coronavirus,2025-26,29,2026-07-19,2026-07-25,0,218
 Public Health Sudbury & Districts,Adenovirus,2025-26,29,2026-07-19,2026-07-25,0,70
@@ -4452,7 +4722,7 @@ Northeastern Public Health,Influenza A,2025-26,27,2026-07-05,2026-07-11,0,34
 Northeastern Public Health,Influenza B,2025-26,27,2026-07-05,2026-07-11,0,34
 Northeastern Public Health,Parainfluenza (all types),2025-26,27,2026-07-05,2026-07-11,0,12
 Northeastern Public Health,Respiratory syncytial virus,2025-26,27,2026-07-05,2026-07-11,0,34
-Northeastern Public Health,SARS-CoV-2,2025-26,27,2026-07-05,2026-07-11,0,47
+Northeastern Public Health,SARS-CoV-2,2025-26,27,2026-07-05,2026-07-11,0,48
 Northeastern Public Health,Seasonal human coronavirus,2025-26,27,2026-07-05,2026-07-11,0,10
 Northwestern Health Unit,Adenovirus,2025-26,27,2026-07-05,2026-07-11,0,7
 Northwestern Health Unit,Entero/Rhinovirus,2025-26,27,2026-07-05,2026-07-11,3,7
@@ -4470,7 +4740,7 @@ Ontario,Influenza A,2025-26,27,2026-07-05,2026-07-11,10,6027
 Ontario,Influenza B,2025-26,27,2026-07-05,2026-07-11,9,5997
 Ontario,Parainfluenza (all types),2025-26,27,2026-07-05,2026-07-11,84,3163
 Ontario,Respiratory syncytial virus,2025-26,27,2026-07-05,2026-07-11,2,5964
-Ontario,SARS-CoV-2,2025-26,27,2026-07-05,2026-07-11,39,6081
+Ontario,SARS-CoV-2,2025-26,27,2026-07-05,2026-07-11,39,6082
 Ontario,Seasonal human coronavirus,2025-26,27,2026-07-05,2026-07-11,15,2492
 Ottawa Public Health,Adenovirus,2025-26,27,2026-07-05,2026-07-11,4,79
 Ottawa Public Health,Entero/Rhinovirus,2025-26,27,2026-07-05,2026-07-11,24,80
@@ -5010,7 +5280,7 @@ Ontario,Influenza A,2025-26,25,2026-06-21,2026-06-27,9,6233
 Ontario,Influenza B,2025-26,25,2026-06-21,2026-06-27,19,6186
 Ontario,Parainfluenza (all types),2025-26,25,2026-06-21,2026-06-27,110,3122
 Ontario,Respiratory syncytial virus,2025-26,25,2026-06-21,2026-06-27,12,6178
-Ontario,SARS-CoV-2,2025-26,25,2026-06-21,2026-06-27,24,6227
+Ontario,SARS-CoV-2,2025-26,25,2026-06-21,2026-06-27,24,6228
 Ontario,Seasonal human coronavirus,2025-26,25,2026-06-21,2026-06-27,11,2480
 Ottawa Public Health,Adenovirus,2025-26,25,2026-06-21,2026-06-27,5,84
 Ottawa Public Health,Entero/Rhinovirus,2025-26,25,2026-06-21,2026-06-27,29,84
@@ -5028,7 +5298,7 @@ Peel Public Health,Influenza A,2025-26,25,2026-06-21,2026-06-27,1,602
 Peel Public Health,Influenza B,2025-26,25,2026-06-21,2026-06-27,3,601
 Peel Public Health,Parainfluenza (all types),2025-26,25,2026-06-21,2026-06-27,6,246
 Peel Public Health,Respiratory syncytial virus,2025-26,25,2026-06-21,2026-06-27,1,602
-Peel Public Health,SARS-CoV-2,2025-26,25,2026-06-21,2026-06-27,2,591
+Peel Public Health,SARS-CoV-2,2025-26,25,2026-06-21,2026-06-27,2,592
 Peel Public Health,Seasonal human coronavirus,2025-26,25,2026-06-21,2026-06-27,0,241
 Public Health Sudbury & Districts,Adenovirus,2025-26,25,2026-06-21,2026-06-27,0,100
 Public Health Sudbury & Districts,Entero/Rhinovirus,2025-26,25,2026-06-21,2026-06-27,13,100
@@ -5816,10 +6086,10 @@ Northwestern Health Unit,Seasonal human coronavirus,2025-26,22,2026-05-31,2026-0
 Ontario,Adenovirus,2025-26,22,2026-05-31,2026-06-06,22,2865
 Ontario,Entero/Rhinovirus,2025-26,22,2026-05-31,2026-06-06,353,3369
 Ontario,Human metapneumovirus,2025-26,22,2026-05-31,2026-06-06,114,3292
-Ontario,Influenza A,2025-26,22,2026-05-31,2026-06-06,13,6899
+Ontario,Influenza A,2025-26,22,2026-05-31,2026-06-06,13,6898
 Ontario,Influenza B,2025-26,22,2026-05-31,2026-06-06,73,6854
 Ontario,Parainfluenza (all types),2025-26,22,2026-05-31,2026-06-06,129,3385
-Ontario,Respiratory syncytial virus,2025-26,22,2026-05-31,2026-06-06,30,6822
+Ontario,Respiratory syncytial virus,2025-26,22,2026-05-31,2026-06-06,30,6823
 Ontario,SARS-CoV-2,2025-26,22,2026-05-31,2026-06-06,42,6893
 Ontario,Seasonal human coronavirus,2025-26,22,2026-05-31,2026-06-06,18,2681
 Ottawa Public Health,Adenovirus,2025-26,22,2026-05-31,2026-06-06,3,99
@@ -5834,10 +6104,10 @@ Ottawa Public Health,Seasonal human coronavirus,2025-26,22,2026-05-31,2026-06-06
 Peel Public Health,Adenovirus,2025-26,22,2026-05-31,2026-06-06,5,278
 Peel Public Health,Entero/Rhinovirus,2025-26,22,2026-05-31,2026-06-06,36,287
 Peel Public Health,Human metapneumovirus,2025-26,22,2026-05-31,2026-06-06,8,281
-Peel Public Health,Influenza A,2025-26,22,2026-05-31,2026-06-06,2,779
+Peel Public Health,Influenza A,2025-26,22,2026-05-31,2026-06-06,2,778
 Peel Public Health,Influenza B,2025-26,22,2026-05-31,2026-06-06,22,778
 Peel Public Health,Parainfluenza (all types),2025-26,22,2026-05-31,2026-06-06,10,278
-Peel Public Health,Respiratory syncytial virus,2025-26,22,2026-05-31,2026-06-06,4,777
+Peel Public Health,Respiratory syncytial virus,2025-26,22,2026-05-31,2026-06-06,4,778
 Peel Public Health,SARS-CoV-2,2025-26,22,2026-05-31,2026-06-06,2,773
 Peel Public Health,Seasonal human coronavirus,2025-26,22,2026-05-31,2026-06-06,2,265
 Public Health Sudbury & Districts,Adenovirus,2025-26,22,2026-05-31,2026-06-06,1,60
