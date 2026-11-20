@@ -1,4 +1,394 @@
 public_health_unit,outcome,surveillance_period,surveillance_week,start_of_time_period,end_of_time_period,number,population,number_per_100_000_population
+Algoma Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,130061,0.0
+Algoma Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,130061,0.0
+Algoma Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,130061,0.0
+Algoma Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,130061,0.0
+Algoma Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,130061,0.9
+Algoma Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,1,130061,0.9
+Algoma Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,130061,0.0
+Algoma Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,130061,0.0
+Algoma Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,130061,0.0
+Algoma Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,130061,0.0
+Algoma Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,130061,0.0
+Algoma Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,130061,0.0
+Algoma Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,130061,0.0
+Chatham-Kent Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,115296,0.0
+Chatham-Kent Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,115296,0.0
+Chatham-Kent Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,115296,0.0
+Chatham-Kent Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,115296,0.0
+Chatham-Kent Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,115296,0.0
+Chatham-Kent Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,0,115296,0.2
+Chatham-Kent Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,115296,0.9
+Chatham-Kent Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,115296,0.0
+Chatham-Kent Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,115296,0.0
+Chatham-Kent Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,115296,0.2
+Chatham-Kent Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,115296,0.0
+Chatham-Kent Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,115296,0.0
+Chatham-Kent Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,115296,0.0
+City of Hamilton Public Health Services,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,653545,0.0
+City of Hamilton Public Health Services,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,653545,0.0
+City of Hamilton Public Health Services,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,4,653545,0.6
+City of Hamilton Public Health Services,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,653545,0.0
+City of Hamilton Public Health Services,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,13,653545,2.0
+City of Hamilton Public Health Services,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,16,653545,2.4
+City of Hamilton Public Health Services,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,653545,0.1
+City of Hamilton Public Health Services,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,6,653545,0.9
+City of Hamilton Public Health Services,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,3,653545,0.4
+City of Hamilton Public Health Services,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,3,653545,0.5
+City of Hamilton Public Health Services,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,653545,0.0
+City of Hamilton Public Health Services,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,653545,0.0
+City of Hamilton Public Health Services,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,653545,0.0
+Durham Region Health Department,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,823356,0.0
+Durham Region Health Department,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,823356,0.0
+Durham Region Health Department,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,4,823356,0.5
+Durham Region Health Department,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,823356,0.2
+Durham Region Health Department,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,5,823356,0.6
+Durham Region Health Department,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,13,823356,1.5
+Durham Region Health Department,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,823356,0.0
+Durham Region Health Department,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,10,823356,1.2
+Durham Region Health Department,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,823356,0.1
+Durham Region Health Department,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,7,823356,0.8
+Durham Region Health Department,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,823356,0.0
+Durham Region Health Department,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,3,823356,0.4
+Durham Region Health Department,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,823356,0.1
+Eastern Ontario Health Unit,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,240869,0.0
+Eastern Ontario Health Unit,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,240869,0.0
+Eastern Ontario Health Unit,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,240869,0.4
+Eastern Ontario Health Unit,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,240869,0.1
+Eastern Ontario Health Unit,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,240869,0.4
+Eastern Ontario Health Unit,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,2,240869,0.9
+Eastern Ontario Health Unit,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,240869,0.2
+Eastern Ontario Health Unit,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,3,240869,1.2
+Eastern Ontario Health Unit,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,240869,0.2
+Eastern Ontario Health Unit,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,240869,0.5
+Eastern Ontario Health Unit,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,240869,0.0
+Eastern Ontario Health Unit,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,240869,0.0
+Eastern Ontario Health Unit,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,240869,0.1
+Grand Erie Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,317257,0.0
+Grand Erie Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,317257,0.0
+Grand Erie Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,317257,0.0
+Grand Erie Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,317257,0.0
+Grand Erie Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,317257,0.6
+Grand Erie Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,4,317257,1.4
+Grand Erie Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,317257,0.0
+Grand Erie Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,2,317257,0.6
+Grand Erie Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,317257,0.2
+Grand Erie Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,317257,0.3
+Grand Erie Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,317257,0.0
+Grand Erie Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,317257,0.0
+Grand Erie Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,317257,0.0
+Grey Bruce Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,200565,0.0
+Grey Bruce Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,200565,0.0
+Grey Bruce Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,200565,0.0
+Grey Bruce Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,200565,0.0
+Grey Bruce Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,200565,0.0
+Grey Bruce Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,1,200565,0.3
+Grey Bruce Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,200565,0.0
+Grey Bruce Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,200565,0.0
+Grey Bruce Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,200565,0.3
+Grey Bruce Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,200565,0.3
+Grey Bruce Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,200565,0.0
+Grey Bruce Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,200565,0.0
+Grey Bruce Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,200565,0.0
+Halton Region Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,681945,0.0
+Halton Region Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,681945,0.0
+Halton Region Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,2,681945,0.3
+Halton Region Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,681945,0.1
+Halton Region Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,3,681945,0.4
+Halton Region Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,7,681945,1.0
+Halton Region Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,681945,0.0
+Halton Region Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,681945,0.1
+Halton Region Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,2,681945,0.3
+Halton Region Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,4,681945,0.5
+Halton Region Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,681945,0.0
+Halton Region Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,681945,0.0
+Halton Region Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,681945,0.0
+Huron Perth Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,1,161498,0.6
+Huron Perth Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,161498,0.2
+Huron Perth Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,161498,0.6
+Huron Perth Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,161498,0.0
+Huron Perth Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,161498,0.3
+Huron Perth Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,2,161498,1.4
+Huron Perth Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,161498,0.1
+Huron Perth Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,2,161498,1.2
+Huron Perth Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,161498,0.8
+Huron Perth Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,161498,1.1
+Huron Perth Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,161498,0.0
+Huron Perth Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,161498,0.0
+Huron Perth Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,161498,0.0
+Lakelands Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,387061,0.0
+Lakelands Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,387061,0.0
+Lakelands Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,2,387061,0.5
+Lakelands Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,387061,0.0
+Lakelands Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,5,387061,1.3
+Lakelands Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,12,387061,3.0
+Lakelands Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,387061,0.5
+Lakelands Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,2,387061,0.5
+Lakelands Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,387061,0.1
+Lakelands Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,6,387061,1.7
+Lakelands Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,387061,0.0
+Lakelands Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,387061,0.0
+Lakelands Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,387061,0.1
+Lambton Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,147877,0.0
+Lambton Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,147877,0.0
+Lambton Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,147877,0.0
+Lambton Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,147877,0.0
+Lambton Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,147877,0.0
+Lambton Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,1,147877,0.4
+Lambton Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,147877,0.0
+Lambton Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,4,147877,2.7
+Lambton Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,147877,0.4
+Lambton Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,147877,0.4
+Lambton Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,147877,0.0
+Lambton Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,147877,0.0
+Lambton Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,147877,0.0
+Middlesex-London Health Unit,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,617349,0.0
+Middlesex-London Health Unit,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,617349,0.0
+Middlesex-London Health Unit,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,617349,0.0
+Middlesex-London Health Unit,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,617349,0.2
+Middlesex-London Health Unit,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,617349,0.3
+Middlesex-London Health Unit,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,5,617349,0.8
+Middlesex-London Health Unit,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,617349,0.0
+Middlesex-London Health Unit,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,2,617349,0.3
+Middlesex-London Health Unit,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,617349,0.2
+Middlesex-London Health Unit,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,3,617349,0.5
+Middlesex-London Health Unit,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,617349,0.0
+Middlesex-London Health Unit,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,617349,0.0
+Middlesex-London Health Unit,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,617349,0.0
+Niagara Region Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,562240,0.0
+Niagara Region Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,562240,0.1
+Niagara Region Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,7,562240,1.2
+Niagara Region Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,3,562240,0.5
+Niagara Region Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,5,562240,1.0
+Niagara Region Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,9,562240,1.7
+Niagara Region Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,562240,0.2
+Niagara Region Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,8,562240,1.4
+Niagara Region Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,2,562240,0.4
+Niagara Region Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,4,562240,0.7
+Niagara Region Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,562240,0.0
+Niagara Region Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,562240,0.0
+Niagara Region Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,562240,0.0
+North Bay Parry Sound District Health Unit,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,149637,0.0
+North Bay Parry Sound District Health Unit,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,149637,0.0
+North Bay Parry Sound District Health Unit,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,149637,0.7
+North Bay Parry Sound District Health Unit,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,149637,0.4
+North Bay Parry Sound District Health Unit,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,149637,0.4
+North Bay Parry Sound District Health Unit,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,1,149637,0.6
+North Bay Parry Sound District Health Unit,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,149637,0.0
+North Bay Parry Sound District Health Unit,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,149637,0.0
+North Bay Parry Sound District Health Unit,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,149637,0.0
+North Bay Parry Sound District Health Unit,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,149637,0.2
+North Bay Parry Sound District Health Unit,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,149637,0.2
+North Bay Parry Sound District Health Unit,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,149637,0.0
+North Bay Parry Sound District Health Unit,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,149637,0.0
+Northeastern Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,126737,0.0
+Northeastern Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,126737,0.0
+Northeastern Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,126737,0.0
+Northeastern Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,126737,0.0
+Northeastern Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,126737,0.0
+Northeastern Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,1,126737,0.5
+Northeastern Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,126737,0.0
+Northeastern Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,126737,0.0
+Northeastern Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,126737,0.5
+Northeastern Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,126737,0.5
+Northeastern Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,126737,0.0
+Northeastern Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,126737,0.0
+Northeastern Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,126737,0.0
+Northwestern Health Unit,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,84156,0.0
+Northwestern Health Unit,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,84156,0.0
+Northwestern Health Unit,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,84156,0.0
+Northwestern Health Unit,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,84156,0.2
+Northwestern Health Unit,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,84156,0.2
+Northwestern Health Unit,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,0,84156,0.2
+Northwestern Health Unit,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,84156,0.0
+Northwestern Health Unit,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,84156,0.0
+Northwestern Health Unit,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,84156,0.0
+Northwestern Health Unit,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,84156,0.0
+Northwestern Health Unit,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,84156,0.0
+Northwestern Health Unit,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,84156,0.0
+Northwestern Health Unit,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,84156,0.0
+Ontario,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,1,16570500,0.0
+Ontario,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,7,16570500,0.0
+Ontario,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,103,16570500,0.6
+Ontario,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,43,16570500,0.3
+Ontario,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,171,16570500,1.0
+Ontario,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,347,16570500,2.1
+Ontario,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,16,16570500,0.1
+Ontario,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,133,16570500,0.8
+Ontario,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,70,16570500,0.4
+Ontario,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,164,16570500,1.0
+Ontario,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,16570500,0.0
+Ontario,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,15,16570500,0.1
+Ontario,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,11,16570500,0.1
+Ottawa Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,1196705,0.0
+Ottawa Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,1196705,0.1
+Ottawa Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,9,1196705,0.8
+Ottawa Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,13,1196705,1.1
+Ottawa Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,31,1196705,2.6
+Ottawa Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,52,1196705,4.4
+Ottawa Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,3,1196705,0.2
+Ottawa Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,12,1196705,1.0
+Ottawa Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,17,1196705,1.4
+Ottawa Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,19,1196705,1.6
+Ottawa Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,1196705,0.0
+Ottawa Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,3,1196705,0.3
+Ottawa Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,1196705,0.2
+Peel Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,1686355,0.0
+Peel Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,1686355,0.0
+Peel Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,41,1686355,2.4
+Peel Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,1686355,0.0
+Peel Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,21,1686355,1.2
+Peel Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,35,1686355,2.1
+Peel Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,1686355,0.0
+Peel Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,15,1686355,0.9
+Peel Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,4,1686355,0.2
+Peel Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,12,1686355,0.7
+Peel Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,1686355,0.0
+Peel Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,2,1686355,0.1
+Peel Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,1686355,0.1
+Public Health Sudbury & Districts,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,230282,0.0
+Public Health Sudbury & Districts,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,230282,0.0
+Public Health Sudbury & Districts,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,230282,0.4
+Public Health Sudbury & Districts,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,230282,0.0
+Public Health Sudbury & Districts,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,230282,0.4
+Public Health Sudbury & Districts,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,1,230282,0.6
+Public Health Sudbury & Districts,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,230282,0.0
+Public Health Sudbury & Districts,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,230282,0.0
+Public Health Sudbury & Districts,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,230282,0.2
+Public Health Sudbury & Districts,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,230282,0.2
+Public Health Sudbury & Districts,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,230282,0.0
+Public Health Sudbury & Districts,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,230282,0.0
+Public Health Sudbury & Districts,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,230282,0.0
+Region of Waterloo Public Health and Paramedic Services,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,751767,0.0
+Region of Waterloo Public Health and Paramedic Services,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,751767,0.0
+Region of Waterloo Public Health and Paramedic Services,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,751767,0.0
+Region of Waterloo Public Health and Paramedic Services,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,751767,0.1
+Region of Waterloo Public Health and Paramedic Services,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,751767,0.2
+Region of Waterloo Public Health and Paramedic Services,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,7,751767,0.9
+Region of Waterloo Public Health and Paramedic Services,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,751767,0.2
+Region of Waterloo Public Health and Paramedic Services,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,751767,0.1
+Region of Waterloo Public Health and Paramedic Services,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,751767,0.0
+Region of Waterloo Public Health and Paramedic Services,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,5,751767,0.6
+Region of Waterloo Public Health and Paramedic Services,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,751767,0.0
+Region of Waterloo Public Health and Paramedic Services,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,751767,0.1
+Region of Waterloo Public Health and Paramedic Services,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,751767,0.0
+Renfrew County and District Health Unit,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,118815,0.0
+Renfrew County and District Health Unit,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,118815,0.0
+Renfrew County and District Health Unit,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,118815,0.0
+Renfrew County and District Health Unit,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,118815,0.7
+Renfrew County and District Health Unit,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,118815,1.4
+Renfrew County and District Health Unit,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,2,118815,1.7
+Renfrew County and District Health Unit,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,118815,0.0
+Renfrew County and District Health Unit,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,118815,0.0
+Renfrew County and District Health Unit,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,118815,0.0
+Renfrew County and District Health Unit,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,118815,0.0
+Renfrew County and District Health Unit,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,118815,0.0
+Renfrew County and District Health Unit,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,118815,0.0
+Renfrew County and District Health Unit,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,118815,0.2
+Simcoe Muskoka District Health Unit,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,712214,0.0
+Simcoe Muskoka District Health Unit,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,712214,0.0
+Simcoe Muskoka District Health Unit,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,3,712214,0.4
+Simcoe Muskoka District Health Unit,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,6,712214,0.8
+Simcoe Muskoka District Health Unit,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,16,712214,2.2
+Simcoe Muskoka District Health Unit,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,25,712214,3.6
+Simcoe Muskoka District Health Unit,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,712214,0.0
+Simcoe Muskoka District Health Unit,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,6,712214,0.8
+Simcoe Muskoka District Health Unit,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,5,712214,0.7
+Simcoe Muskoka District Health Unit,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,9,712214,1.3
+Simcoe Muskoka District Health Unit,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,712214,0.0
+Simcoe Muskoka District Health Unit,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,712214,0.0
+Simcoe Muskoka District Health Unit,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,712214,0.0
+South East Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,635666,0.0
+South East Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,635666,0.2
+South East Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,5,635666,0.8
+South East Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,5,635666,0.9
+South East Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,7,635666,1.2
+South East Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,20,635666,3.1
+South East Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,635666,0.2
+South East Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,3,635666,0.5
+South East Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,4,635666,0.6
+South East Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,13,635666,2.0
+South East Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,635666,0.0
+South East Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,635666,0.0
+South East Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,635666,0.0
+Southwestern Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,251168,0.0
+Southwestern Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,251168,0.0
+Southwestern Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,251168,0.0
+Southwestern Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,251168,0.0
+Southwestern Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,6,251168,2.3
+Southwestern Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,7,251168,2.8
+Southwestern Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,251168,0.2
+Southwestern Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,2,251168,0.8
+Southwestern Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,251168,0.5
+Southwestern Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,251168,0.6
+Southwestern Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,251168,0.1
+Southwestern Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,251168,0.0
+Southwestern Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,251168,0.0
+Thunder Bay District Health Unit,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,167041,0.0
+Thunder Bay District Health Unit,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,167041,0.0
+Thunder Bay District Health Unit,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,3,167041,1.8
+Thunder Bay District Health Unit,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,167041,0.1
+Thunder Bay District Health Unit,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,3,167041,1.9
+Thunder Bay District Health Unit,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,4,167041,2.1
+Thunder Bay District Health Unit,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,167041,0.0
+Thunder Bay District Health Unit,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,167041,0.0
+Thunder Bay District Health Unit,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,167041,0.0
+Thunder Bay District Health Unit,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,167041,0.3
+Thunder Bay District Health Unit,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,167041,0.0
+Thunder Bay District Health Unit,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,167041,0.0
+Thunder Bay District Health Unit,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,167041,0.0
+Toronto Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,3257758,0.0
+Toronto Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,3257758,0.0
+Toronto Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,15,3257758,0.5
+Toronto Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,5,3257758,0.1
+Toronto Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,38,3257758,1.2
+Toronto Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,94,3257758,2.9
+Toronto Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,4,3257758,0.1
+Toronto Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,31,3257758,1.0
+Toronto Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,16,3257758,0.5
+Toronto Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,54,3257758,1.7
+Toronto Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,3257758,0.0
+Toronto Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,4,3257758,0.1
+Toronto Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,3257758,0.1
+Wellington-Dufferin-Guelph Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,355513,0.0
+Wellington-Dufferin-Guelph Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,355513,0.3
+Wellington-Dufferin-Guelph Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,355513,0.3
+Wellington-Dufferin-Guelph Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,355513,0.1
+Wellington-Dufferin-Guelph Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,355513,0.1
+Wellington-Dufferin-Guelph Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,3,355513,0.7
+Wellington-Dufferin-Guelph Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,355513,0.0
+Wellington-Dufferin-Guelph Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,355513,0.3
+Wellington-Dufferin-Guelph Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,2,355513,0.6
+Wellington-Dufferin-Guelph Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,355513,0.6
+Wellington-Dufferin-Guelph Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,355513,0.0
+Wellington-Dufferin-Guelph Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,0,355513,0.0
+Wellington-Dufferin-Guelph Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,355513,0.0
+Windsor-Essex County Health Unit,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,503024,0.0
+Windsor-Essex County Health Unit,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,503024,0.0
+Windsor-Essex County Health Unit,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,503024,0.2
+Windsor-Essex County Health Unit,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,1,503024,0.3
+Windsor-Essex County Health Unit,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,503024,0.3
+Windsor-Essex County Health Unit,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,2,503024,0.4
+Windsor-Essex County Health Unit,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,503024,0.0
+Windsor-Essex County Health Unit,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,503024,0.2
+Windsor-Essex County Health Unit,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,0,503024,0.0
+Windsor-Essex County Health Unit,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,503024,0.0
+Windsor-Essex County Health Unit,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,503024,0.0
+Windsor-Essex County Health Unit,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,503024,0.2
+Windsor-Essex County Health Unit,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,503024,0.1
+York Region Public Health,COVID-19 deaths,2026-27,45,2026-11-08,2026-11-14,0,1304743,0.0
+York Region Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,1304743,0.0
+York Region Public Health,COVID-19 hospital admissions,2026-27,45,2026-11-08,2026-11-14,2,1304743,0.2
+York Region Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,4,1304743,0.3
+York Region Public Health,COVID-19 hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,5,1304743,0.4
+York Region Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,45,2026-11-08,2026-11-14,22,1304743,1.7
+York Region Public Health,Influenza hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,1,1304743,0.1
+York Region Public Health,Influenza hospital admissions,2026-27,45,2026-11-08,2026-11-14,21,1304743,1.6
+York Region Public Health,Influenza hospital bed occupancy (due to infection),2026-27,45,2026-11-08,2026-11-14,8,1304743,0.6
+York Region Public Health,Influenza hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,16,1304743,1.2
+York Region Public Health,RSV hospital ICU bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,0,1304743,0.0
+York Region Public Health,RSV hospital admissions,2026-27,45,2026-11-08,2026-11-14,1,1304743,0.1
+York Region Public Health,RSV hospital bed occupancy (total),2026-27,45,2026-11-08,2026-11-14,2,1304743,0.1
 Algoma Public Health,COVID-19 deaths,2026-27,44,2026-11-01,2026-11-07,0,130061,0.0
 Algoma Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,130061,0.0
 Algoma Public Health,COVID-19 hospital admissions,2026-27,44,2026-11-01,2026-11-07,2,130061,1.5
@@ -69,7 +459,7 @@ Grand Erie Public Health,COVID-19 hospital ICU bed occupancy (total),2026-27,44,
 Grand Erie Public Health,COVID-19 hospital admissions,2026-27,44,2026-11-01,2026-11-07,2,317257,0.6
 Grand Erie Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,0,317257,0.0
 Grand Erie Public Health,COVID-19 hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,3,317257,0.9
-Grand Erie Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,44,2026-11-01,2026-11-07,4,317257,1.3
+Grand Erie Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,44,2026-11-01,2026-11-07,3,317257,0.9
 Grand Erie Public Health,Influenza hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,317257,0.0
 Grand Erie Public Health,Influenza hospital admissions,2026-27,44,2026-11-01,2026-11-07,0,317257,0.0
 Grand Erie Public Health,Influenza hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,0,317257,0.0
@@ -207,16 +597,16 @@ Northwestern Health Unit,Influenza hospital bed occupancy (total),2026-27,44,202
 Northwestern Health Unit,RSV hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,84156,0.0
 Northwestern Health Unit,RSV hospital admissions,2026-27,44,2026-11-01,2026-11-07,0,84156,0.0
 Northwestern Health Unit,RSV hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,84156,0.0
-Ontario,COVID-19 deaths,2026-27,44,2026-11-01,2026-11-07,0,16570500,0.0
+Ontario,COVID-19 deaths,2026-27,44,2026-11-01,2026-11-07,1,16570500,0.0
 Ontario,COVID-19 hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,9,16570500,0.1
 Ontario,COVID-19 hospital admissions,2026-27,44,2026-11-01,2026-11-07,77,16570500,0.5
 Ontario,COVID-19 hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,35,16570500,0.2
 Ontario,COVID-19 hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,165,16570500,1.0
-Ontario,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,44,2026-11-01,2026-11-07,346,16570500,2.1
+Ontario,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,44,2026-11-01,2026-11-07,348,16570500,2.1
 Ontario,Influenza hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,14,16570500,0.1
-Ontario,Influenza hospital admissions,2026-27,44,2026-11-01,2026-11-07,143,16570500,0.9
+Ontario,Influenza hospital admissions,2026-27,44,2026-11-01,2026-11-07,147,16570500,0.9
 Ontario,Influenza hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,82,16570500,0.5
-Ontario,Influenza hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,173,16570500,1.0
+Ontario,Influenza hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,174,16570500,1.0
 Ontario,RSV hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,1,16570500,0.0
 Ontario,RSV hospital admissions,2026-27,44,2026-11-01,2026-11-07,7,16570500,0.0
 Ontario,RSV hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,9,16570500,0.1
@@ -272,12 +662,12 @@ Region of Waterloo Public Health and Paramedic Services,Influenza hospital bed o
 Region of Waterloo Public Health and Paramedic Services,RSV hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,751767,0.0
 Region of Waterloo Public Health and Paramedic Services,RSV hospital admissions,2026-27,44,2026-11-01,2026-11-07,0,751767,0.0
 Region of Waterloo Public Health and Paramedic Services,RSV hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,751767,0.0
-Renfrew County and District Health Unit,COVID-19 deaths,2026-27,44,2026-11-01,2026-11-07,0,118815,0.0
+Renfrew County and District Health Unit,COVID-19 deaths,2026-27,44,2026-11-01,2026-11-07,1,118815,0.8
 Renfrew County and District Health Unit,COVID-19 hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,118815,0.0
 Renfrew County and District Health Unit,COVID-19 hospital admissions,2026-27,44,2026-11-01,2026-11-07,0,118815,0.0
-Renfrew County and District Health Unit,COVID-19 hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,1,118815,0.7
-Renfrew County and District Health Unit,COVID-19 hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,1,118815,0.7
-Renfrew County and District Health Unit,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,44,2026-11-01,2026-11-07,1,118815,1.1
+Renfrew County and District Health Unit,COVID-19 hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,1,118815,0.8
+Renfrew County and District Health Unit,COVID-19 hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,1,118815,0.8
+Renfrew County and District Health Unit,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,44,2026-11-01,2026-11-07,1,118815,1.2
 Renfrew County and District Health Unit,Influenza hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,118815,0.0
 Renfrew County and District Health Unit,Influenza hospital admissions,2026-27,44,2026-11-01,2026-11-07,0,118815,0.0
 Renfrew County and District Health Unit,Influenza hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,0,118815,0.2
@@ -305,9 +695,9 @@ South East Public Health,COVID-19 hospital bed occupancy (due to infection),2026
 South East Public Health,COVID-19 hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,5,635666,0.7
 South East Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,44,2026-11-01,2026-11-07,17,635666,2.7
 South East Public Health,Influenza hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,2,635666,0.3
-South East Public Health,Influenza hospital admissions,2026-27,44,2026-11-01,2026-11-07,14,635666,2.2
+South East Public Health,Influenza hospital admissions,2026-27,44,2026-11-01,2026-11-07,15,635666,2.4
 South East Public Health,Influenza hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,4,635666,0.6
-South East Public Health,Influenza hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,12,635666,1.9
+South East Public Health,Influenza hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,12,635666,2.0
 South East Public Health,RSV hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,635666,0.0
 South East Public Health,RSV hospital admissions,2026-27,44,2026-11-01,2026-11-07,0,635666,0.0
 South East Public Health,RSV hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,635666,0.0
@@ -344,7 +734,7 @@ Toronto Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27
 Toronto Public Health,COVID-19 hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,28,3257758,0.9
 Toronto Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,44,2026-11-01,2026-11-07,78,3257758,2.4
 Toronto Public Health,Influenza hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,1,3257758,0.0
-Toronto Public Health,Influenza hospital admissions,2026-27,44,2026-11-01,2026-11-07,33,3257758,1.0
+Toronto Public Health,Influenza hospital admissions,2026-27,44,2026-11-01,2026-11-07,35,3257758,1.1
 Toronto Public Health,Influenza hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,17,3257758,0.5
 Toronto Public Health,Influenza hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,48,3257758,1.5
 Toronto Public Health,RSV hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,3257758,0.0
@@ -355,11 +745,11 @@ Wellington-Dufferin-Guelph Public Health,COVID-19 hospital ICU bed occupancy (to
 Wellington-Dufferin-Guelph Public Health,COVID-19 hospital admissions,2026-27,44,2026-11-01,2026-11-07,0,355513,0.0
 Wellington-Dufferin-Guelph Public Health,COVID-19 hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,0,355513,0.0
 Wellington-Dufferin-Guelph Public Health,COVID-19 hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,355513,0.0
-Wellington-Dufferin-Guelph Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,44,2026-11-01,2026-11-07,2,355513,0.5
+Wellington-Dufferin-Guelph Public Health,"Combined COVID-19, influenza, and RSV hospital bed occupancy (total)",2026-27,44,2026-11-01,2026-11-07,2,355513,0.6
 Wellington-Dufferin-Guelph Public Health,Influenza hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,355513,0.0
-Wellington-Dufferin-Guelph Public Health,Influenza hospital admissions,2026-27,44,2026-11-01,2026-11-07,3,355513,0.8
-Wellington-Dufferin-Guelph Public Health,Influenza hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,2,355513,0.4
-Wellington-Dufferin-Guelph Public Health,Influenza hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,2,355513,0.4
+Wellington-Dufferin-Guelph Public Health,Influenza hospital admissions,2026-27,44,2026-11-01,2026-11-07,4,355513,1.1
+Wellington-Dufferin-Guelph Public Health,Influenza hospital bed occupancy (due to infection),2026-27,44,2026-11-01,2026-11-07,2,355513,0.6
+Wellington-Dufferin-Guelph Public Health,Influenza hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,2,355513,0.6
 Wellington-Dufferin-Guelph Public Health,RSV hospital ICU bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,355513,0.0
 Wellington-Dufferin-Guelph Public Health,RSV hospital admissions,2026-27,44,2026-11-01,2026-11-07,0,355513,0.0
 Wellington-Dufferin-Guelph Public Health,RSV hospital bed occupancy (total),2026-27,44,2026-11-01,2026-11-07,0,355513,0.0
@@ -922,7 +1312,7 @@ Lambton Public Health,Influenza hospital bed occupancy (total),2026-27,42,2026-1
 Lambton Public Health,RSV hospital ICU bed occupancy (total),2026-27,42,2026-10-18,2026-10-24,0,147877,0.0
 Lambton Public Health,RSV hospital admissions,2026-27,42,2026-10-18,2026-10-24,0,147877,0.0
 Lambton Public Health,RSV hospital bed occupancy (total),2026-27,42,2026-10-18,2026-10-24,0,147877,0.0
-Middlesex-London Health Unit,COVID-19 deaths,2026-27,42,2026-10-18,2026-10-24,0,617349,0.0
+Middlesex-London Health Unit,COVID-19 deaths,2026-27,42,2026-10-18,2026-10-24,1,617349,0.2
 Middlesex-London Health Unit,COVID-19 hospital ICU bed occupancy (total),2026-27,42,2026-10-18,2026-10-24,0,617349,0.0
 Middlesex-London Health Unit,COVID-19 hospital admissions,2026-27,42,2026-10-18,2026-10-24,1,617349,0.2
 Middlesex-London Health Unit,COVID-19 hospital bed occupancy (due to infection),2026-27,42,2026-10-18,2026-10-24,0,617349,0.0
@@ -987,7 +1377,7 @@ Northwestern Health Unit,Influenza hospital bed occupancy (total),2026-27,42,202
 Northwestern Health Unit,RSV hospital ICU bed occupancy (total),2026-27,42,2026-10-18,2026-10-24,0,84156,0.0
 Northwestern Health Unit,RSV hospital admissions,2026-27,42,2026-10-18,2026-10-24,0,84156,0.0
 Northwestern Health Unit,RSV hospital bed occupancy (total),2026-27,42,2026-10-18,2026-10-24,0,84156,0.0
-Ontario,COVID-19 deaths,2026-27,42,2026-10-18,2026-10-24,2,16570500,0.0
+Ontario,COVID-19 deaths,2026-27,42,2026-10-18,2026-10-24,3,16570500,0.0
 Ontario,COVID-19 hospital ICU bed occupancy (total),2026-27,42,2026-10-18,2026-10-24,4,16570500,0.0
 Ontario,COVID-19 hospital admissions,2026-27,42,2026-10-18,2026-10-24,67,16570500,0.4
 Ontario,COVID-19 hospital bed occupancy (due to infection),2026-27,42,2026-10-18,2026-10-24,31,16570500,0.2
